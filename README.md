@@ -4,6 +4,7 @@
 A PHP client (fancy named SDK) to access Prosperworks API. 
 Default HTTP library is CURL but it works with Guzzle too. 
 
+For use in Shift.org Prosperworks upgrades
 
 *Note: this is not an official Prosperworks package; all product names, logos, and brands are property of their respective owners.*
 
